@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Doctoral candidate in <a href='https://sociology.unc.edu/'>Sociology</a> at <a href='https://www.unc.edu/'>UNC Chapel Hill</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>208 W. Franklin St. CB #3210</p>
+    <p>Chapel Hill, NC 27599-3210</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +26,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a mixed methods researcher and a scholar of religion, gender, family, and well-being. I am interested in how individuals understand, interpret, and enact the teachings and policies of their religious organizations and the relationship between religiosity and well-being.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My three-paper dissertation uses quantiative and qualitative approaches to investigate the prevalence and health impacts of religious incongruence, or misalignment between personal and congregational beliefs, and explore how individuals, specifically Latter-day Saint women, perform the everyday embodied aesthetic work of communicating belonging within religious institutions through their appearance. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My master’s thesis uses data from the National Longitudinal Study of Adolescent to Adult Health to examine the reciprocal relationships between religious service attendance and depressive symptoms across the life course. As a Wagoner Foreign Study Fellow, I interviewed Latter-day Saint women in Ireland on their faith and experiences as members of the LDS Church and the church’s influence on their lives.
+
+As a Graduate Teaching Fellow at UNC, I teach undergraduate courses in Sociology of Religion and Sociology of Mental Health and Illness. 
+
+Beyond my scholarly work, I love watching movies with friends, reading, and watching basketball.
