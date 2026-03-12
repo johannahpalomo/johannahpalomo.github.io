@@ -4,7 +4,11 @@
 
 @use "variables" as v;
 
+$font-sans: 'Inter', system-ui, sans-serif;
+$font-serif: 'Source Serif 4', Georgia, serif;
+
 body {
+  font-family: $font-serif;
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
