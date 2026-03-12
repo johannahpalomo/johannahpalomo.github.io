@@ -2,40 +2,54 @@
  * Variables used throughout the theme.
  * To adjust anything, simply edit the variables below and rebuild the theme.
  ******************************************************************************/
-
 @use "sass:color";
 
+// Nord Palette
+$nord0: #2E3440;
+$nord1: #3B4252;
+$nord2: #434C5E;
+$nord3: #4C566A;
+$nord4: #D8DEE9;
+$nord5: #E5E9F0;
+$nord6: #ECEFF4;
+$nord7: #8FBCBB;
+$nord8: #88C0D0;
+$nord9: #81A1C1;
+$nord10: #5E81AC;
+$nord11: #BF616A;
+$nord12: #D08770;
+$nord13: #EBCB8B;
+$nord14: #A3BE8C;
+$nord15: #B48EAD;
+
 // Colors
-$red-color: #bf616a !default;
-$red-color-dark: #bf616a !default;
-$orange-color: #d08770 !default;
-$blue-color: #81a1c1 !default;
-$blue-color-dark: #5e81ac !default;
-$cyan-color: #88c0d0 !default;
-$light-cyan-color: #8fbcbb !default;
-$green-color: #a3be8c !default;
-$green-color-lime: #a3be8c !default;
-$green-color-dark: #a3be8c !default;
-$green-color-light: #a3be8c !default;
-$green-color-bright: #a3be8c !default;
-$purple-color: #b48ead !default;
-$light-purple-color: color.adjust($purple-color, $lightness: 25%);
-$pink-color: #b48ead !default;
-$pink-color-light: color.adjust($pink-color, $lightness: 25%);
-$yellow-color: #ebcb8b !default;
-
-$grey-color: #d8dee9 !default;
-$grey-color-light: #e5e9f0;
-$grey-color-dark: #3b4252;
-$grey-900: #434c5e;
-
-$white-color: #eceff4 !default;
-$black-color: #2e3440 !default;
+$red-color: $nord11 !default;
+$red-color-dark: color.adjust($nord11, $lightness: -15%) !default;
+$orange-color: $nord12 !default;
+$blue-color: $nord8 !default;
+$blue-color-dark: $nord10 !default;
+$cyan-color: $nord7 !default;
+$light-cyan-color: color.adjust($nord7, $lightness: 25%);
+$green-color: $nord14 !default;
+$green-color-lime: color.adjust($nord14, $lightness: 15%) !default;
+$green-color-dark: color.adjust($nord14, $lightness: -10%) !default;
+$green-color-light: color.adjust($nord14, $lightness: 35%) !default;
+$green-color-bright: color.adjust($nord14, $lightness: 10%) !default;
+$purple-color: $nord15 !default;
+$light-purple-color: color.adjust($nord15, $lightness: 25%);
+$pink-color: color.adjust($nord15, $lightness: -10%) !default;
+$pink-color-light: color.adjust($nord15, $lightness: 30%) !default;
+$yellow-color: $nord13 !default;
+$grey-color: $nord3 !default;
+$grey-color-light: color.adjust($nord3, $lightness: 40%);
+$grey-color-dark: $nord1;
+$grey-900: $nord0;
+$white-color: $nord6 !default;
+$black-color: $nord0 !default;
 
 // Theme colors
-
-$code-bg-color-light: #e5e9f0 !default;
-$code-bg-color-dark: #434c5e !default;
+$code-bg-color-light: rgba($nord15, 0.05);
+$code-bg-color-dark: $nord1 !default;
 
 // Font awesome location
 $fa-font-path: "../webfonts";
