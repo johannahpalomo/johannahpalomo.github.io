@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a doctoral candidate in [Sociology](https://sociology.unc.edu/) at [the University of North Carolina at Chapel Hill](https://sociology.unc.edu/). 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am a mixed methods researcher and a scholar of religion, gender, and well-being. I am interested in how individuals understand, interpret, and enact the teachings and policies of their religious organizations and the relationship between religiosity and well-being. I am especially interested in what happens when people disagree with their religion.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I expect to complete my PhD in May 2027. I received my MA in Sociology from UNC Chapel Hill in 2023 and my BA in Sociology and the Study of Women, Gender, and Sexuality from Rice University in 2020.
 
+Beyond my scholarly work, I love [going to the movies with friends](https://www.thechelseatheater.org/), birding, reading, [learning new programming languages](https://github.com/johannahpalomo), and watching basketball[^1][^2][^3].
 
-[jekyll-organization]: https://github.com/jekyll
+[^1]: [San Antonio Spurs](https://en.wikipedia.org/wiki/San_Antonio_Spurs)
+[^2]: [Las Vegas Aces](https://en.wikipedia.org/wiki/Las_Vegas_Aces)
+[^3]: [UNC Men's Basketball](https://en.wikipedia.org/wiki/North_Carolina_Tar_Heels_men's_basketball) and [UNC Women's Basketball](https://en.wikipedia.org/wiki/North_Carolina_Tar_Heels_women's_basketball)
