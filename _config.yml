@@ -17,7 +17,6 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
 title: Johannah Palomo
 email: johannah@unc.edu
 description: # this means to ignore newlines until "baseurl:"
@@ -28,11 +27,13 @@ twitter_username: johannahpalomo
 github_username:  johannahpalomo
 
 # Build settings
-theme:
-  minima:
-    skin: solarized
+remote_theme: "jekyll/minima@1e8a445"  # or another known-good ref
+
+minima:
+  skin: solarized
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
